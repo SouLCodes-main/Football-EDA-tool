@@ -1,0 +1,2 @@
+1. I think my data is in string format I need to fix that
+2. The Numpy function is throwing error, need to debug
